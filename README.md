@@ -1,3 +1,4 @@
+<img width="1280" height="592" alt="image" src="https://github.com/user-attachments/assets/df3a67f2-e97b-4ebd-ab5e-ed3e4102ff87" />
 
 # 📈 AI-Powered Stock Chart Analysis Agent
 
